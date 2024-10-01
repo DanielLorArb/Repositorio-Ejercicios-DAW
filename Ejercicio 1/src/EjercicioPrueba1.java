@@ -26,9 +26,7 @@ public class EjercicioPrueba1 {
             System.out.println("Introduce un numero...");
             num2 = entrada.nextInt();
 
-            if (num1 == num2) {
-
-            }
+            if (num1 == num2) {}
 
             int resultado = num1 + num2;
 
